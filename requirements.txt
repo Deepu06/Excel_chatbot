@@ -1,0 +1,9 @@
+langchain
+duckduckgo-search
+pypdf
+torch
+tabulate 
+streamlit-feedback
+langchain-experimental
+streamlit-nightly 
+python-dotenv
